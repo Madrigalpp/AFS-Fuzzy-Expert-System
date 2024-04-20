@@ -1,2 +1,4 @@
 # AFS-cluster 2024 project
-Continue updating
+##overview
+here is a expert system and Fuzzy Cluster.  
+for the afs
